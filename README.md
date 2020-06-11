@@ -26,7 +26,7 @@ Output:
 |Concept|Key to Search|
 |---|---|
 |Recursion|recursion|
-|Sorting|sorting|
+|Sorting|sort|
 |Dynamic Programming|dynamic| 
 |Heap|heap|
 |Binary Search|binary|
