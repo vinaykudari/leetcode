@@ -27,7 +27,7 @@ Output:
   200-300/201-220/invert_binary_tree_226.py
   ```
 
-# concept-message {}
+## concept-message {}
 |Concept|Key to Search|
 |---|---|
 |Recursion|recursion|
