@@ -4,7 +4,7 @@ Python solutions for leetcode problems, organized based on question number and c
 # searching
 
 ## search by problem 
-Use Github's new feature 'Go to File' and search by problem or problem number, if I had solved it you can find the file
+Use Github's new feature 'Go to File' and search by problem or problem number (```<question_no>.py```), if I had solved it you can find the file
 
 ## search by concept 
 Problems are comitted with concept type as a message, we can fetch questions related to a concept by running ```git log``` 
