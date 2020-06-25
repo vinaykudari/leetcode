@@ -38,6 +38,7 @@ Output:
 |Binary Search|binary|
 |Linked List|linked-list|
 |Trees|tree|
+|Super Cool Algos|interesting|
 
 
 
